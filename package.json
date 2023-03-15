@@ -1,0 +1,22 @@
+{
+  "name": "trading_middleware",
+  "version": "1.0.0",
+  "description": "trading middleware",
+  "main": "handler.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francesco94M1/trading-strategy-manager-aws-node.git"
+  },
+  "keywords": [
+    "trading"
+  ],
+  "author": "francesco.morisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francesco94M1/trading-strategy-manager-aws-node/issues"
+  },
+  "homepage": "https://github.com/francesco94M1/trading-strategy-manager-aws-node#readme"
+}
